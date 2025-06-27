@@ -55,6 +55,7 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#166534" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="format-detection" content="telephone=no" />
+        <meta name="facebook-domain-verification" content="6p67sdy59uej84oolssm2d1akxyy5y" />
         
         {/* Schema.org structured data */}
         <script
@@ -69,7 +70,7 @@ export default function RootLayout({ children }) {
               "logo": "https://granelcorretora.com.br/logo.jpg",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+55-66-96895-6261",
+                "telephone": "+55-66-9689-5626",
                 "contactType": "Customer Service",
                 "availableLanguage": "Portuguese"
               },

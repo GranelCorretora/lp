@@ -3,7 +3,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 
 export default function Home() {
-  const whatsappNumber = "5566968956261";
+  const whatsappNumber = "556696895626";
   
   const handleWhatsAppClick = () => {
     const message = "Olá! Gostaria de falar com um especialista da Granel Corretora sobre comercialização agrícola.";
@@ -337,7 +337,7 @@ export default function Home() {
                   whileHover={{ scale: 1.05 }}
                   onClick={handleWhatsAppClick}
                 >
-                  📱 (66) 96895-6261
+                  📱 (66) 9689-5626
                 </motion.p>
                 <p>🏢 Piso Superior, Av dos Tarumãs, 430</p>
                 <p className="text-sm">St. Res. Sul, Sinop - MT, 78550-001</p>
