@@ -3,10 +3,7 @@ const nextConfig = {
   output: 'standalone',
   trailingSlash: false,
   images: {
-    unoptimized: true,
-  },
-  experimental: {
-    outputFileTracingRoot: undefined,
+    unoptimized: false,
   },
 };
 
